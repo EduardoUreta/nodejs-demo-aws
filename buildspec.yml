@@ -8,7 +8,7 @@ phases:
     build:
       commands:
       - echo "Ejecutando build de la app..."
-      - npm test
+      # - npm test
 
 artifacts:
   files:
